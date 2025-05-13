@@ -21,3 +21,7 @@ This project aims to predict player performance and assist users in making infor
 Player performance data sourced from public FPL APIs and datasets. Custom features were engineered to improve prediction accuracy.
 
 ## How to Run
+### Requirements
+Install necessary packages:
+```bash
+pip install pandas numpy matplotlib seaborn scikit-learn lightgbm
