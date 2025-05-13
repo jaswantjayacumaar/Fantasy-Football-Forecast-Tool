@@ -7,7 +7,7 @@ This project aims to predict player performance and assist users in making infor
 - Predict whether a player will be in the starting 11
 - Classify players based on expected points (high/low)
 - Suggest optimal captain picks to maximize points
-- Analyze player trends using features like form, xG, xA, FDR, and NT
+- Analyze player trends using features like form, Expected Goals (xG), Expected Assists (xA), Fixture Difficulty Rating (FDR), and Net Transfers (NT)
 - Explore multiple ML models (Naive Bayes, KNN, Random Forest, etc.)
 
 ## Models Used
